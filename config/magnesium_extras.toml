@@ -10,7 +10,7 @@
 		"Use Borderless Fullscreen" = "BORDERLESS"
 
 	[Settings."FPS Counter"]
-		"Display FPS Counter (OFF, SIMPLE, ADVANCED)" = "OFF"
+		"Display FPS Counter (OFF, SIMPLE, ADVANCED)" = "SIMPLE"
 		"FPS Counter Distance" = 12
 
 	[Settings."Entity Distance"]
@@ -29,7 +29,7 @@
 		"Zoom Overlay?" = false
 
 	[Settings."True Darkness"]
-		"Use True Darkness" = false
+		"Use True Darkness" = true
 		#Allowed Values: PITCH_BLACK, REALLY_DARK, DARK, DIM
 		"Darkness Setting (PITCH_BLACK, REALLY_DARK, DARK, DIM)" = "DARK"
 
